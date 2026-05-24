@@ -181,7 +181,6 @@ function App() {
     Magíster en Derecho por la Pontificia Universidad Católica de Valparaíso y
     candidato a MBA por la Escuela de Negocios de Barcelona.
   </p>
-
   <p>
     Cuento con diplomados en contratación pública, contratación con el Estado,
     procedimientos administrativos, legislación laboral para la empresa,
