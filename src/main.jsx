@@ -262,7 +262,17 @@ function App() {
             <button className="btn btn-primary" type="submit">
               <CalendarDays size={16} /> Solicitar reunión
             </button>
-          </form>
+        <form
+  action="https://formsubmit.co/contacto@solarbonilla.cl"
+  method="POST"
+  className="contact-form"
+>
+          <input type="hidden" name="_captcha" value="false" />
+<input
+  type="hidden"
+  name="_next"
+  value="https://www.solarbonilla.cl"
+/>
         </div>
       </section>
 
