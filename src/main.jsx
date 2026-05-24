@@ -177,9 +177,11 @@ function App() {
         </p>
 
         <p>
-          Felipe Solar Bonilla desarrolla una práctica orientada al derecho
-          corporativo, laboral, investigaciones internas, compliance y
-          resolución estratégica de conflictos.
+           Soy Felipe Solar Bonilla, abogado con experiencia en asesoría jurídica
+    estratégica, derecho laboral, derecho corporativo, investigaciones internas,
+    procedimientos disciplinarios, compliance y resolución de conflictos.
+          Soy Licenciado en ciencias Jurídicas por la Universidad Católica del Norte, Magíster en derecho por la Pontificia Universidad Católica de Valparaíso
+          Candidato a MBA por la Escuela de Negocios de Barcelona. cuento con diplomados en a´reas como contratación, contratación con el Estado, Procedimientos Administrativos, Legislación Laboral para la Empresa, Derechos Humanos, Habilidades directivas, Resolución de Conflictos, compliance e IA en los negocios..
         </p>
       </div>
     </div>
