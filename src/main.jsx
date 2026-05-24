@@ -17,7 +17,7 @@ import {
   MessageCircle,
 } from "lucide-react";
 import "./styles.css";
-import profilePhoto from "./assets/felipe-solar-bonilla.png";
+import profilePhoto from  "./assets/felipe-solar-bonilla.png.png";
 const services = [
   {
     icon: Briefcase,
