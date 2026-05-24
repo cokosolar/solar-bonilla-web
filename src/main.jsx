@@ -164,7 +164,7 @@ function App() {
       <h2>Asesoría legal con visión jurídica y criterio de negocio.</h2>
 
       <div className="body-copy">
-       <p>
+  <p>
     Solar Bonilla Abogados entrega asesoría jurídica estratégica,
     litigación y soluciones corporativas de alto estándar para empresas y personas.
     La práctica combina rigor técnico, pensamiento estratégico, confidencialidad
@@ -177,10 +177,12 @@ function App() {
     procedimientos disciplinarios, compliance y resolución de conflictos.
   </p>
 
+  <p>
     Soy Licenciado en Ciencias Jurídicas por la Universidad Católica del Norte,
     Magíster en Derecho por la Pontificia Universidad Católica de Valparaíso y
     candidato a MBA por la Escuela de Negocios de Barcelona.
   </p>
+
   <p>
     Cuento con diplomados en contratación pública, contratación con el Estado,
     procedimientos administrativos, legislación laboral para la empresa,
