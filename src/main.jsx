@@ -251,6 +251,17 @@ Es asesor de empresas, sindicatos y abogado litigante con causas abiertas en tod
           <p>© {new Date().getFullYear()} Solar Bonilla Abogados. Todos los derechos reservados.</p>
         </div>
       </footer>
+      
+      <a
+  href="https://wa.me/56993176972?text=Hola%2C%20visité%20la%20página%20de%20Solar%20Bonilla%20Abogados%20y%20quisiera%20coordinar%20una%20consulta."
+  target="_blank"
+  rel="noreferrer"
+  aria-label="Contactar por WhatsApp"
+  className="floating-whatsapp"
+>
+  <MessageCircle size={20} /> WhatsApp
+</a>
+      
     </main>
   );
 }
