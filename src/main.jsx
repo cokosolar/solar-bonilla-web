@@ -14,6 +14,7 @@ import {
   CalendarDays,
   ChevronRight,
   Menu,
+  MessageCircle,
 } from "lucide-react";
 import "./styles.css";
 
