@@ -164,26 +164,32 @@ function App() {
       <h2>Asesoría legal con visión jurídica y criterio de negocio.</h2>
 
       <div className="body-copy">
-        <p>
-          Solar Bonilla Abogados entrega asesoría jurídica estratégica,
-          litigación y soluciones corporativas de alto estándar para empresas
-          y personas.
- <p>
-   <p>        
-          La práctica combina rigor técnico, pensamiento estratégico,
-          confidencialidad y enfoque preventivo para enfrentar asuntos legales
-          complejos con claridad y eficacia.
- <p>
- <p>
-           Soy Felipe Augusto Solar Bonilla, abogado con experiencia en asesoría jurídica
+       <p>
+    Solar Bonilla Abogados entrega asesoría jurídica estratégica,
+    litigación y soluciones corporativas de alto estándar para empresas y personas.
+    La práctica combina rigor técnico, pensamiento estratégico, confidencialidad
+    y enfoque preventivo para enfrentar asuntos legales complejos con claridad y eficacia.
+  </p>
+
+  <p>
+    Soy Felipe Augusto Solar Bonilla, abogado con experiencia en asesoría jurídica
     estratégica, derecho laboral, derecho corporativo, investigaciones internas,
     procedimientos disciplinarios, compliance y resolución de conflictos.
-          
-          
-          Soy Licenciado en ciencias Jurídicas por la Universidad Católica del Norte, Magíster en derecho por la Pontificia Universidad Católica de Valparaíso
-          Candidato a MBA por la Escuela de Negocios de Barcelona. cuento con diplomados en a´reas como contratación, contratación con el Estado, Procedimientos Administrativos, Legislación Laboral para la Empresa, Derechos Humanos, Habilidades directivas, Resolución de Conflictos, compliance e IA en los negocios..
-        </p>
-      </div>
+  </p>
+
+  <p>
+    Soy Licenciado en Ciencias Jurídicas por la Universidad Católica del Norte,
+    Magíster en Derecho por la Pontificia Universidad Católica de Valparaíso y
+    candidato a MBA por la Escuela de Negocios de Barcelona.
+  </p>
+
+  <p>
+    Cuento con diplomados en contratación pública, contratación con el Estado,
+    procedimientos administrativos, legislación laboral para la empresa,
+    derechos humanos, habilidades directivas, resolución de conflictos,
+    compliance e inteligencia artificial aplicada a los negocios.
+  </p>
+</div>
     </div>
   </div>
 </section>
