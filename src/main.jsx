@@ -168,10 +168,16 @@ function App() {
           Solar Bonilla Abogados entrega asesoría jurídica estratégica,
           litigación y soluciones corporativas de alto estándar para empresas
           y personas.
+
+
+
           
           La práctica combina rigor técnico, pensamiento estratégico,
           confidencialidad y enfoque preventivo para enfrentar asuntos legales
           complejos con claridad y eficacia.
+
+
+
           
           
            Soy Felipe Augusto Solar Bonilla, abogado con experiencia en asesoría jurídica
