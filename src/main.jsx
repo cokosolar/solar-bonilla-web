@@ -172,12 +172,11 @@ function App() {
   </p>
 
   <p>
-    Soy Felipe Augusto Solar Bonilla, abogado con experiencia en asesoría jurídica
+    Mi nombre es Felipe Augusto Solar Bonilla, abogado con experiencia en asesoría jurídica
     estratégica, derecho laboral, derecho corporativo, investigaciones internas,
     procedimientos disciplinarios, compliance y resolución de conflictos.
   </p>
 
-  <p>
     Soy Licenciado en Ciencias Jurídicas por la Universidad Católica del Norte,
     Magíster en Derecho por la Pontificia Universidad Católica de Valparaíso y
     candidato a MBA por la Escuela de Negocios de Barcelona.
