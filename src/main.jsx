@@ -169,13 +169,11 @@ function App() {
           litigación y soluciones corporativas de alto estándar para empresas
           y personas.
         </p>
-
         <p>
           La práctica combina rigor técnico, pensamiento estratégico,
           confidencialidad y enfoque preventivo para enfrentar asuntos legales
           complejos con claridad y eficacia.
         </p>
-
         <p>
            Soy Felipe Solar Bonilla, abogado con experiencia en asesoría jurídica
     estratégica, derecho laboral, derecho corporativo, investigaciones internas,
