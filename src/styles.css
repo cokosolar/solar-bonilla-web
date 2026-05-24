@@ -571,3 +571,44 @@ footer p {
 .floating-whatsapp:hover {
   background: #163a65;
 }
+.about-grid {
+  align-items: center;
+  gap: 60px;
+}
+
+.about-image-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.about-image {
+  width: 100%;
+  max-width: 520px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 30px 70px rgba(0,0,0,.18);
+  border: 1px solid rgba(255,255,255,.08);
+}
+
+.body-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.body-copy p {
+  color: #4b5563;
+  line-height: 1.8;
+  font-size: 16px;
+}
+
+@media (max-width: 960px) {
+  .about-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .about-image {
+    max-width: 420px;
+  }
+}
