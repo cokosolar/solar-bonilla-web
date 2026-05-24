@@ -17,7 +17,7 @@ import {
   MessageCircle,
 } from "lucide-react";
 import "./styles.css";
-
+import profilePhoto from "./assets/felipe-solar-bonilla.png";
 const services = [
   {
     icon: Briefcase,
@@ -149,29 +149,42 @@ function App() {
         </div>
       </section>
 
-      <section id="nosotros" className="about">
-        <div className="container split">
-          <div>
-            <p className="eyebrow dark">Nosotros</p>
-            <h2>Asesoría legal con visión jurídica y criterio de negocio.</h2>
-          </div>
-          <div className="body-copy">
-            <p>
-             
-             Felipe Augusto Solar Bonilla, es licenciado en ciencias jurídicas y sociales por la Universidad Católica del Norte. Magíster en Derecho por la Pontificia Universidad Católica de Valparaíso y Candidato MBA por la Escuela de Negocios de Barcelona, España. 
-Cuenta con diplomados en Contratación, Procedimientos Administrativos, Derechos humanos, Legislación laboral para la Empresa, Habilidades Directivas, Inteligencia Artificial para los negocios y cursos en compliance e investigaciones internas. 
-Es asesor de empresas, sindicatos y abogado litigante con causas abiertas en todo el país.
+     <section id="nosotros" className="about">
+  <div className="container split about-grid">
+    <div className="about-image-wrapper">
+      <img
+        src={profilePhoto}
+        alt="Felipe Solar Bonilla"
+        className="about-image"
+      />
+    </div>
 
+    <div>
+      <p className="eyebrow dark">Nosotros</p>
+      <h2>Asesoría legal con visión jurídica y criterio de negocio.</h2>
 
-              
+      <div className="body-copy">
+        <p>
+          Solar Bonilla Abogados entrega asesoría jurídica estratégica,
+          litigación y soluciones corporativas de alto estándar para empresas
+          y personas.
+        </p>
 
-            </p> La práctica se orienta a entregar acompañamiento jurídico permanente, defensa estratégica y soluciones
-              preventivas para empresas, ejecutivos y personas que requieren decisiones legales claras, fundadas y
-              oportunas. El sello de Solar Bonilla Abogados combina rigor técnico, pensamiento estratégico, confidencialidad y
-              capacidad de transformar problemas complejos en cursos de acción concretos.
-          </div>
-        </div>
-      </section>
+        <p>
+          La práctica combina rigor técnico, pensamiento estratégico,
+          confidencialidad y enfoque preventivo para enfrentar asuntos legales
+          complejos con claridad y eficacia.
+        </p>
+
+        <p>
+          Felipe Solar Bonilla desarrolla una práctica orientada al derecho
+          corporativo, laboral, investigaciones internas, compliance y
+          resolución estratégica de conflictos.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
 
       <section id="areas" className="services">
         <div className="container">
