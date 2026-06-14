@@ -184,7 +184,7 @@ function App() {
   </p>
 
   <p>
-    Cuento con diplomados en contratación pública, contratación con el Estado,
+    Cuento con diplomados en contratación pública,
     procedimientos administrativos, legislación laboral para la empresa,
     derechos humanos, habilidades directivas, resolución de conflictos,
     compliance e inteligencia artificial aplicada a los negocios.
